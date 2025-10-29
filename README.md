@@ -5,5 +5,8 @@ A simple web app to visualize JSON data as a hierarchical tree. Paste JSON, gene
 
 Live Demo: https://apiwizchallenge.vercel.app/
 
-| Screenshots |
-| ![Login](./jsontreevisualizer.png) |
+## Screenshot
+
+<div align="center">
+  <img src="./jsontreevisualizer.png" alt="JSON Tree Visualizer" width="600"/>
+</div>
